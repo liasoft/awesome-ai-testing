@@ -183,6 +183,7 @@ Tools that use AI to fill coverage gaps and prioritize testing efforts.
 - [Mutahunter](https://github.com/codeintegrity-ai/mutahunter) 🆓 - LLM-based mutation testing for stronger test suites.
 - [Stryker Mutator](https://github.com/stryker-mutator/stryker-js) 🆓 - Mutation testing framework that pairs well with AI test generators.
 - [coverage-guard](https://github.com/sametcelikbicak/coverage-guard) 🆓 - AI agent skill that enforces 100% test coverage for any JavaScript/TypeScript project. Works with Vitest, Jest, react-scripts, and more. Compatible with opencode, Claude Code, Cursor, Windsurf, and GitHub Copilot.
+- [covdbg](https://covdbg.com/docs/integrations/mcp/) 💰 - Windows x64 C++ coverage tool whose local MCP server gives coding agents measured uncovered-source context to guide test edits; requires matching PDB symbols.
 
 ## AI Test Data Generation
 
